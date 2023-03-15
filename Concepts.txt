@@ -4,3 +4,6 @@ Data types
 
 functions
 control statements
+
+
+Loops
